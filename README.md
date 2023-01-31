@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabe Corsini 
 - 👀 I’m interested in Architecting Cloud Solutions, Automation, Cybersecurity, Scripting, and really good books.
-- 🌱 I'm currently brushing up on AWS Cloud services, IaC, automation, scripting, and more.
+- 🌱 I'm currently working on ways to automate the deployment of fully featured azure environments to cut down on hands-on admin work, reducing turnaround time on customer activations.
 - 📫 I can be reached at gabe@corsini.tech 
 
 <!---
