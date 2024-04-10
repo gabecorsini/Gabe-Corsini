@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Gabe Corsini 
-- 👀 I’m interested in .Net development and building cool things.
+- 👀 I’m interested in Golang and building cool tools
 - 🌱 I'm currently working on learning how to build products that make people's lives or jobs easier.
+
+<a href="https://app.daily.dev/tiredsysadmin"><img src="https://api.daily.dev/devcards/v2/dzbfKQ5ME5Fa0kbeuUR1j.png?r=11s&type=wide" width="652" alt="Gabe's Dev Card"/></a>
 
 <!---
 corsinitech/corsinitech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
