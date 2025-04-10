@@ -25,9 +25,10 @@ I’m passionate about making security **simpler, more scalable, and more human-
 
 ---
 
-## 📁 Featured Projects
+## 📁 Projects and other work:
 
-*Coming soon! In the meantime, I’m actively building public and private tools related to Microsoft cloud security, detection engineering, and compliance.*
+- 📽️[**Webinar**: CMMC-Ready Security: How M365 GCC High Security Tools Protect Your Organization](https://youtu.be/i1GnvmNWtWc?si=8KwE0yljZT4G-K3v)
+- 📝[**Blog Post**: Microsoft Sentinel and Zero Trust](https://blog.corsec.io/p/microsoft-sentinel-and-zero-trust)
 
 ---
 
@@ -36,6 +37,7 @@ I’m passionate about making security **simpler, more scalable, and more human-
 If you’re working on Microsoft Security, cloud automation, or detection tooling—I’d love to connect and collaborate.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabecorsini/)
+- 📝 [Personal Blog](https://blog.corsec.io)
 
 ---
 
